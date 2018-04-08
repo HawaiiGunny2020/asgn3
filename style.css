@@ -1,7 +1,7 @@
 *{margin:2px, padding:2px;}
 body{background:#000000;}
 #header{background;#ff0000;box-shadow: 0px 0px 6px 1px #0000FF;}
-#navbar{height:200px;} 
+#navbar{height:100px;} 
 #navbar>li{list-style:none;}
 li>a{color:#0000FF;backround-color=#FF6666; float:left; }
 li>a:hover,
