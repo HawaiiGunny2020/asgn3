@@ -7,4 +7,4 @@ li>a{display:block color:#000000; line-height:80px;text-align:center;family font
 li>a:hover,
 li>a:focus:{background:#EEEEEE color:#000000;}
 #logo{width:250 px;height:80px;float:left;padding-left:40px}
-@mediascreen and (max-width:1060px)
+@mediascreen and (max-width:1260px){}
