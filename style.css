@@ -4,6 +4,6 @@ body{background:#000000;}
 #navbar>li{list-style:none;}
 li>a{text-align:left;float:left; }
 li>a:hover,
-li>a:focus:{width:100px;height:100px}
+li>a:focus:{width:10px;height:10px}
 #logo{width:100px;height:80px;float:right;}
 
