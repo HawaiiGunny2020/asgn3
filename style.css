@@ -1,5 +1,6 @@
 *{margin:0px, padding:0px;}
-body{background:black;}
-#header{width:100%; height:80px;background;#ff0000;}
+body{background:#000000;}
+#header{width:100%; height:80px;background;#ff0000;box-shadow:0px 3px 7px #0000FF;}
 #navbar{width:1000px;list-style:none;float:right;} 
-li>a{display:block color:#000000; line-height:80px;text-align:center;family font:cursive,arial;font-size:20px;}
+li>a{display:block color:#000000; line-height:80px;text-align:center;family font:cursive,arial;font-size:20px;text-decoration:none}
+#logo{width:200px;height:80px;float:left;}
