@@ -8,18 +8,18 @@ height:100vh;
 background-image: url(splash.png);
 }
 nav{
-  background-color:#000000;}
-ul{
-  display:inline;
-  list-style:none;
-  float:right;
-}
+  background-color:#000000;
+  padding:20px;}
+
 li a{
- padding: 30px;
- display:inline;
-  list-style:none;
-  float:right;
+ color:#000000;
 }
+li{
+display:inline;
+list-style: none;
+
+}
+
     
 
 
