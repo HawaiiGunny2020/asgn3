@@ -16,15 +16,17 @@ background-color:#ff0000;
 li a
 {
  color:#0000FF;
+Font-size:50px;
+  float:right;
 }
 li{
 display:inline;
 text-decoration:none;
 float:right;
   margin-right:20px;
-  Font-size:150px:
+ 
 Font-Variant:small-caps;
-  font-weight:bold;
+  
 }
 
     
