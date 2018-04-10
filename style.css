@@ -14,6 +14,7 @@ background-image: url(splash.png);
 nav{
   background-color:#00FF00;
   text-align:right;
+ width:50px;
  position:top
   
   }
