@@ -12,8 +12,11 @@ nav{
 ul{
   display:block;
   list-style:none;
+  float:right;
 }
-
+li a{
+padding: 30px;
+}
     
 
 
