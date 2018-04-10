@@ -18,11 +18,12 @@ li a
  color:#0000FF;
 Font-size:50px;
   float:right;
+  Font-Variant:small-caps;
 }
 li{
 display:inline;
 text-decoration:none;
-float:right;
+
   margin-right:20px;
  
 Font-Variant:small-caps;
