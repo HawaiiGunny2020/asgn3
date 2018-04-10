@@ -15,7 +15,10 @@ ul{
   float:right;
 }
 li a{
-padding: 30px;
+ padding: 30px;
+ display:inline;
+  list-style:none;
+  float:right;
 }
     
 
