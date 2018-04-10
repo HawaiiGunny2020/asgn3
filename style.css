@@ -7,11 +7,12 @@ background-image: url(splash.png);
 }
 nav{
   background-color:#00FF00;
+  float:right;
   }
 ul
 {
 background-color:#ff0000;
-  float:right;
+ 
 }
 
 li a
