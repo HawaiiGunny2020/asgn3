@@ -10,7 +10,7 @@ background-image: url(splash.png);
 nav{
   background-color:#000000;}
 ul{
-  
+  display:inline;
   list-style:none;
   float:right;
 }
