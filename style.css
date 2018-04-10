@@ -5,6 +5,10 @@ padding:0px;
 font-family:verdana, sans-serif;
 background-image: url(splash.png);
 }
+
+#logo{
+  float:right;
+}
 nav{
   background-color:#00FF00;
   text-align:center;
