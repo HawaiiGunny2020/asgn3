@@ -6,7 +6,7 @@ font-family:verdana, sans-serif;
 background-image: url(splash.png);
 }
 nav{
-  background-color:#000000;
+  background-color:#00FF00;
   }
 ul
 {
@@ -19,6 +19,7 @@ li a
 }
 li{
 display:inline;
+text-decoration:none;
 }
 
     
