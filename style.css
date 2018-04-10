@@ -10,14 +10,17 @@ background-image: url(splash.png);
 nav{
   background-color:#000000;
   padding:20px;}
+ul
+{
+background-color:#ff0000;
+}
 
-li a{
+li a
+{
  color:#000000;
 }
 li{
 display:inline;
-
-
 }
 
     
