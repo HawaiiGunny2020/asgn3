@@ -20,7 +20,7 @@ li a
 li{
 display:inline;
 text-decoration:none;
-
+float:right;
   margin-right:20px;
   Font-size:150px:
 Font-Variant:small-caps;
