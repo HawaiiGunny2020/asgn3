@@ -8,7 +8,7 @@ background-image: url(splash.png);
 
 #logo{
 
-  position:left;
+ float:left;
 
 }
 nav{
