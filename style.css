@@ -25,11 +25,12 @@ ul
 {
 background-color:#FF0000;
  list-style-type:none;
+ display:inline;
 }
 
 li a
 {
-display:inline;
+
  color:#0000FF;
 text-decoration:none;
 
@@ -51,5 +52,5 @@ section{
  color:#000000;
  font-style: bold;
  top:100px;
- float:right;
+ float:left;
 }
