@@ -24,13 +24,13 @@ font-size:50px;
 ul
 {
 background-color:#FF0000;
- list-style-type:none;
- display:inline;
+ 
 }
 
 li a
 {
-
+ display:inline;
+  list-style-type:none;
  color:#0000FF;
 text-decoration:none;
 
