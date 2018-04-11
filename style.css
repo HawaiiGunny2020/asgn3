@@ -9,14 +9,14 @@ background-image: url(splash.png);
 #logo{
 height:10px;
  width:30px;
- float:right;
+ float:left;
  top:0px;
 
 }
-#navbar{
+div{
   background-color:#00FF00;
  width:80px;
-  text-align:center;
+ text-align:center;
 font-size:50px;
  position:top;
   
