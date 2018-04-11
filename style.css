@@ -45,7 +45,8 @@ Font-size:30px;
   
 }
 
-section{ 
+section, h1, p
+{ 
  color:#000000;
  font-style: bold;
 position:bottom;
