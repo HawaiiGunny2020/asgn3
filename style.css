@@ -20,8 +20,12 @@ header{
   font-size=30px;
 text-align-right;
 }
+h1
+{padding:0px;}
 p
-{font-size=18px
+{
+ padding:0px;
+ font-size=18px
 }
 nav{
   padding:0px;
