@@ -50,7 +50,9 @@ main{
  float:left;
 }
 #logo{top:0px;}
-
+#footer{float:right;
+bottom:20px;
+}
 
  
   
