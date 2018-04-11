@@ -40,12 +40,12 @@ padding:10px;
 }
 main{float;center;
 position;absolute;
- top;10%;
+top:0px;
 }
 #logo{
 height:10px;
  width:30px;
- float:right;
+ float:center;
  top:0px;
 }
 
