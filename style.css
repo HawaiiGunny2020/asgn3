@@ -13,11 +13,10 @@ height:10px;
  top:0px;
 
 }
-div{
+nav{
   background-color:#00FF00;
- width:80px;
- text-align:center;
-font-size:50px;
+  text-align:center;
+font-size:30px;
  position:top;
   
   }
@@ -29,14 +28,28 @@ background-color:#FF0000;
 
 li a
 {
- display:inline;
-  list-style-type:none;
  color:#0000FF;
 text-decoration:none;
 
  
 }
 li{
+display:inline;
+text-decoration:none;
+
+
+Font-size:30px;
+  
+  padding:10px;
+ 
+  
+}
+
+section{ 
+ color:#000000;
+ font-style: bold;
+ top:100px;
+}
 
 text-decoration:none;
 
