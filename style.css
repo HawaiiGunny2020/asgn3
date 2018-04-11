@@ -8,9 +8,8 @@ font-family:verdana, sans-serif;
 background-image: url(splash.png);
 }
 header{
- padding:5px;
- margin-left:15px;
-background-color:#000099;
+ padding:0px;
+ background-color:#000099;
  border:6px 0px 6px 0px;
  border-color:#000000;
   width:100%;
