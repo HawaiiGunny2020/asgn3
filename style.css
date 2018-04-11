@@ -29,13 +29,14 @@ background-color:#FF0000;
 
 li a
 {
+display:inline;
  color:#0000FF;
 text-decoration:none;
 
  
 }
 li{
-display:inline;
+
 text-decoration:none;
 
 
