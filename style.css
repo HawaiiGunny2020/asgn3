@@ -9,6 +9,8 @@ background-image: url(splash.png);
 }
 header{
 background-color:#ffffff;
+  width:1000px;
+  height:80px
   color:#000000;
   font-size=30px;
 }
