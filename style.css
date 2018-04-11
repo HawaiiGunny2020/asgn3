@@ -24,7 +24,7 @@ font-size:50px;
 ul
 {
 background-color:#FF0000;
- 
+ list-style-type:none;
 }
 
 li a
