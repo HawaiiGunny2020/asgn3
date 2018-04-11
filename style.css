@@ -38,8 +38,8 @@ text-decoration:none;
 Font-size:30px;
 padding:10px;
 }
-main{float;right;
- top:0px;
+main{float;center;
+z-inde:100%;
 }
 #logo{
 height:10px;
