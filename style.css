@@ -9,10 +9,11 @@ body
 li {width:200px;list-style:none;float:left  }
 
 #logo{
-height:30px;
  width:60px;
- float:right;
- top:0px;}
+ height:30px;
+ float:left;
+
+   }
 
 
 li a
