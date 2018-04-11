@@ -39,7 +39,8 @@ Font-size:30px;
 padding:10px;
 }
 main{float;center;
-z-inde:100%;
+position;absolute;
+ top;10%;
 }
 #logo{
 height:10px;
