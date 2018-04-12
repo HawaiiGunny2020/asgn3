@@ -39,7 +39,9 @@ h1
 {padding:0px;
 font-weight:bold
 }
-
+p{font-size:15px;
+Font-color:#ff0000;
+}
 
 nav{
   padding:0px;
@@ -88,9 +90,7 @@ footer{clear:both;
  float:right;
  background-color:  #ffff66;
 }
-.title {clear:both;
- font-size:5px;
- list-style-type:none;}
+
 
  
   
