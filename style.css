@@ -1,14 +1,14 @@
 @ charset "UTF-8"
 header, nav, main,{display:block}
 body
-{margin-left=auto;
- margin-right=auto;
- width:1000px;
+{width:1000px;
 margin-bottom:0px;
 padding:5px 5px 0px 5px;
 font-family:verdana, sans-serif;
  background-color: #4db8ff;
- background-image: url(splash.png)
+ background-image: url(splash.png);
+ margin-left=auto;
+ margin-right=auto;
 }
 .banner{
  text-indent:50px;
@@ -22,6 +22,8 @@ font-family:verdana, sans-serif;
  font-family:cursive;
   font-size=30px;
 text-align-right;
+ margin-left=auto;
+ margin-right=auto;
 }
 div{
  float:right;
