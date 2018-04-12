@@ -35,12 +35,13 @@ p
  padding:0px;
  font-size=18px
 }
-nav{
-  padding:0px;
-  text-align:left;
-font-size:25px;
- font-family: verdana, sans-serif;
-margin-top:auto;
+nav {
+    margin: 0px;
+    width: 100%;
+    border: 3px solid #73AD21;
+    padding:15px;
+
+
   }
 .topnav .search-container {
     float: none;
