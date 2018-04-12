@@ -34,7 +34,6 @@ p
 }
 nav{
   padding:0px;
-  background-color:#00FF00;
   text-align:left;
 font-size:30px;
  font-family:cursive;
@@ -42,7 +41,7 @@ margin-top:0px;
   }
 ul
 {
-background-color:#0000ff; 
+background-color: #ffb3b3; 
 }
 li a
 {
