@@ -11,7 +11,7 @@ font-family:verdana, sans-serif;
 .banner{
  text-indent:50px;
  padding:0px 0px 20px 0px;
- background-color:#99ccff;
+ background-color: #ffff66;
  border:6px 0px 6px 0px;
  border-color:#000000;
   width:100%;
@@ -42,7 +42,7 @@ margin-top:0px;
   }
 ul
 {
-background-color: #ffb3b3; 
+background-color:  #ffff66; 
 }
 li a
 {
@@ -63,7 +63,7 @@ footer{clear:both;
  position:absolute;
  bottom:0;
  float:right;
- background-color: #4db8ff;
+ background-color:  #ffff66;
 }
 
  
