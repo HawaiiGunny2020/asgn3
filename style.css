@@ -33,7 +33,10 @@ font-weight:bold
 p
 {
  padding:0px;
- font-size=18px
+ font-size=18px;
+}
+p
+{height:1.8;
 }
 
 nav{
