@@ -7,8 +7,8 @@ body
 margin-bottom:0px;
 padding:5px 5px 0px 5px;
 font-family:verdana, sans-serif;
-background-image: url(splash.png)
  background-color: #4db8ff;
+ background-image: url(splash.png)
 }
 .banner{
  text-indent:50px;
