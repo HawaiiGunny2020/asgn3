@@ -60,7 +60,8 @@ padding:10px;
 #logo{top:0px;}
 footer{clear:both;
  float:right;
- position:bottom;
+ position:absolute;
+ bottom:0;
 }
 
  
