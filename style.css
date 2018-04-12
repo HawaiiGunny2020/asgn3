@@ -6,33 +6,25 @@ margin-top:0;
 padding:5px 5px 0px 5px;
 font-family:verdana, sans-serif;
  background-color:#9999ff;
-	
  background-image: url(splash.png);
 }
 .banner{
  text-indent:50px;
-
  background-color:#ffff80;
-
   width:100%;
   height:140px;
   color:#000000;
  font-family:cursive;
-  
-text-align-right;
+ text-align-right;
  margin-left=auto;
  margin-right=auto;
- 
-}
+ }
 p
-{
- padding:0px 0px 20px 0px;
+{padding:0px 0px 20px 0px;
  font-size:18px;
  font-height:10px;
-}
-
-
-div{
+ }
+div {
  float:right;
 }
 h1
@@ -42,13 +34,11 @@ font-weight:bold
 p{font-size:15px;
 Font-color:#ff0000;
 }
-
 nav{
   padding:0px;
   text-align:left;
  font-family: verdana, sans-serif;
-margin-top:auto;
-
+ margin-top:auto;
   }
 .topnav .search-container {
     float: none;
@@ -75,19 +65,19 @@ text-decoration:none;
 }
 li a:hover{
  background-color:#FF0000;
-}
-li{
-display:inline;
-text-decoration:none;
-Font-size:15px;
-padding:10px;
-}
-.logo{top:0px;}
-footer{
-	clear:both;
+ }
+ li{
+ display:inline;
+ text-decoration:none;
+ Font-size:15px;
+ padding:10px;
+ }
+ .logo{top:0px;}
+ footer{
+ clear:both;
  position:absolute;
  bottom:0;
-	padding:0px 20px 0px 20px;
+ padding:0px 20px 0px 20px;
  background-color:   #000080;
 	color:#ffffff;
 	
