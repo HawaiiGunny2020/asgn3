@@ -58,9 +58,9 @@ Font-size:30px;
 padding:10px;
 }
 #logo{top:0px;}
-#footer{float:right;
-
- text-align:bottom;
+footer{clear:both;
+ float:right;
+ position:bottom;
 }
 
  
