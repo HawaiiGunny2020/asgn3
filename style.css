@@ -27,7 +27,9 @@ div{
  float:right;
 }
 h1
-{padding:0px;}
+{padding:0px;
+font-weight:bold
+}
 p
 {
  padding:0px;
