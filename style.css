@@ -74,7 +74,7 @@ text-decoration:none;
 Font-size:30px;
 padding:10px;
 }
-#logo{top:0px;}
+.logo{top:0px;}
 footer{clear:both;
  position:absolute;
  bottom:0;
