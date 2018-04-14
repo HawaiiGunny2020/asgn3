@@ -7,13 +7,10 @@ body {
 header h1 {
           Font-size:34pt;
           Font-family:  helvetica, arial, sans-serif;
-      
-          
           }
-h1.flag{
-       
-        backround-color:#99ccff;
-       }
+ul li{
+      list-style-type:none;
+      }
 header h2{
          font-size:29pt;
          font-family: "satisfy", helvetica;
