@@ -6,10 +6,11 @@ body {
       color:#000000;}
 header h1 {
           Font-family:  helvetica, arial, sans-serif;
-          backround-color:#99ccff;
+          
           }
 h1.flag{
         width:600; height:200;
+        backround-color:#99ccff;
        }
 nav ul li {
           width:50;
