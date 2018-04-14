@@ -11,6 +11,10 @@ header h1 {
 ul li{
       list-style-type:none;
       }
+li:before{
+          content: "AMENDMENT " counter(mycounter, upper-roman);
+          counter-increment:mycounter;
+          margin-left: 24pt;
 header h2{
          font-size:29pt;
          font-family: "satisfy", helvetica;
