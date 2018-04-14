@@ -12,7 +12,7 @@ ul li{
       list-style-type:none;
       }
 li:before{
-          content: "AMENDMENT " counter(upper-roman);
+          content: "AMENDMENT " counter(mycounter, upper-roman);
           counter-increment:mycounter;
           margin-left: 24pt;
 header h2{
