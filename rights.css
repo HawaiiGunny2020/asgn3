@@ -3,8 +3,9 @@ body {
       Font-family:"tangerine", sans-serif;
       font-size:25pt;
       background-color:#b3ffff;
-      background-image:background:url(water.png);
-      color:#000000;}
+      color:#000000;
+      background-image: url(water.png);
+      }
 header h1 {
           Font-size:34pt;
           Font-family:  helvetica, arial, sans-serif;
