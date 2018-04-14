@@ -8,11 +8,10 @@ header h1 {
           Font-size:34pt;
           Font-family:  helvetica, arial, sans-serif;
           }
-header ul li a{
-      font-weight:bold
-}
 ul li {
 list-style-type:none;
+ul li a{
+      font-weight:bold
       }
 header h2{
          font-size:29pt;
