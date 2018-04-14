@@ -12,10 +12,13 @@ ul li{
       list-style-type:none;
       }
 
-li a{font-size:25pt
+li a .I{font-size:25pt
      font-weight:bold;
+      font-family: arial, sans-serif;}
      }
-li .I{font-weight:bold}
+.I{font-weight:bold
+  font-family:verdana, sans-serif;
+}
         
 header h2{
          font-size:29pt;
