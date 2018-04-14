@@ -7,7 +7,7 @@ nav{
   }
 h1.flag{width:600; height:200;
   }
- h1.butt{clear:both;
+ nav.butt{clear:both;
           width:50;
           height:50;
         }
