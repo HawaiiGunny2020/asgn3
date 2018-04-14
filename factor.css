@@ -1,26 +1,19 @@
 body {
   background-color: #e6cab3 ;
   color: #000000;
-  font-family: arial, sans-serif;
-}
+  font-family: arial, sans-serif;}
 h1{
-  font-size: 50px;
-}
+  font-size: 50px;}
 h2{
-  font-size: 35px;
-}
+  font-size: 35px;}
 p{
-  font-size: 20px;
-}
+  font-size: 20px;}
 mark{
-  background-color: #98fb98;
-}
+  background-color: #98fb98;}
 var{
   color: #0000ff;
-  font-style: italic;
-}
+  font-style: italic;}
 sup{
-  color: #ff0000;
-}
+  color: #ff0000;}
 .back{
   hover:#ff0000}
