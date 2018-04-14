@@ -1,11 +1,11 @@
 
 body {
       Font-family:"tangerine", sans-serif;
-      font-size:19pt;
+      font-size:22pt;
       background-color:#b3ffff;
       color:#000000;}
 header h1 {
-          Font-size:27pt;
+          Font-size:30pt;
           Font-family:  helvetica, arial, sans-serif;
       
           
@@ -15,7 +15,7 @@ h1.flag{
         backround-color:#99ccff;
        }
 header h2{
-         font-size:23pt;
+         font-size:26pt;
          font-family: "satisfy", helvetica;
          }
     
