@@ -1,10 +1,11 @@
 
 body {
-background-color:#b3ffff;
-color#000000;}
+      background-color:#b3ffff;
+      color#000000;}
 header h1 {
-Font-family:"tangerine", sans-serif;
-style="text-align:center;}
+          Font-family:"tangerine", sans-serif;
+          text-align:center;
+          }
 nav{ 
   }
 h1.flag{width:600; height:200;
