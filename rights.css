@@ -19,9 +19,9 @@ header h2{
          font-family: "satisfy", helvetica;
          }
     
-nav ul li {
-          width:50;
-          height:50;
+nav a {
+          width:50cm;
+          height:50cm;
         }
 footer{float:left;
        }
