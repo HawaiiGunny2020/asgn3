@@ -1,9 +1,10 @@
 
 body {
+      Font-family:"tangerine", sans-serif
       background-color:#b3ffff;
       color#000000;}
 header h1 {
-          Font-family:"tangerine", sans-serif;
+          Font-family: verdana, helvetica, sans-serif;
           text-align:center;
           }
 h1.flag{
