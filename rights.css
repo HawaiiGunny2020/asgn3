@@ -5,14 +5,18 @@ body {
       background-color:#b3ffff;
       color:#000000;}
 header h1 {
+          Font-size:24pt;
           Font-family:  helvetica, arial, sans-serif;
+      
           
           }
 h1.flag{
        
         backround-color:#99ccff;
        }
-header h2{font-family: "satisfy", helvetica;
+header h2{
+         font-size:19pt;
+         font-family: "satisfy", helvetica;
          }
     
 nav ul li {
