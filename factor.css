@@ -15,5 +15,5 @@ var{
   font-style: italic;}
 sup{
   color: #ff0000;}
-.back{
-  hover:#ff0000}
+p.back:hover{
+  background-color:#FF0000;}
