@@ -12,6 +12,7 @@ ul li {
       list-style-type:none;
       }
 ul li a{
+      font-family: "satisfy", sans-serif;
       font-weight:bold
       }
 header h2{
