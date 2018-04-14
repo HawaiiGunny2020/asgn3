@@ -20,5 +20,7 @@ nav ul li {
           height:50;
         }
 footer{float:left;
-       
-        }
+       }
+
+.home:hover:
+{color:#ff0000;}
