@@ -1,4 +1,6 @@
 
+@ charset "UTF-8"
+header, nav, main,{display:block}
 body
 {width:1000px;
 margin-top:0;
@@ -78,11 +80,7 @@ li a:hover{
  bottom:0;
  padding:0px 20px 0px 20px;
  background-color:   #000080;
-	color:#ffffff;	
+	color:#ffffff;
+	
 }
 p.reggie{background-color:#000000;}
-	
-
-
-  
-
