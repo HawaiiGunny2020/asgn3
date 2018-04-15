@@ -7,6 +7,7 @@ header div{ float:right;}
 header h1{font-size:30pt;
           font-color:#FF0000;}
 header p{font-size:20pt;}
+Nav ul{list-style-type:none;}
 ul li{font-size:18pt;}
-footer:hover{color:#ff0000;}
+footer{color:#000000;}
 
