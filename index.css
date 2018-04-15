@@ -1,3 +1,8 @@
 body{ background-color:#8cb3d9;
   color:#ffdead;}
+header div{ float:right;}
+header h1{font-size:30pt;
+          font color:#FF0000
+         }
+header p{font-size:20pt;}
 
