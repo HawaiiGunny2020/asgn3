@@ -8,8 +8,6 @@ header h1{font-size:30pt;
           font-color:#FF0000;}
 header p{font-size:20pt;}
 nav ul{list-style-type:none;}
-nav ul{list-style:block;
-       text-decoration:none;}
 ul li{font-size:18pt;}
 footer{color:#000000;}
 Footer:hover{color:#ff0000;}
