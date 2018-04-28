@@ -1,8 +1,6 @@
  body {
-                 background:url(grass.png);
-                 background-repeat:no-repeat; 
-                 background-size:100%;
-                 background-color:#b3e6ff;
+                 background:url(nature1.jpeg);
+                 background-sizet:cover; 
                  color:#000000;
                  text-align:left;
                  padding: 0px 
