@@ -12,8 +12,10 @@
         padding:0px 0px 0px 20px; 
         box-shadow: 5px 10px #ceda62;    
 }
-.header h1{
- float:right;
+#header img{ float:right;
+}
+#header h1{
+ font-size:30px;
 }
 #eagle img{float: right;
   } 
