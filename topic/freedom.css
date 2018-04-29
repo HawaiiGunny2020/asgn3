@@ -12,12 +12,12 @@
         box-shadow: 5px 10px #ceda62;    
 }
 #header img{ float:right;
+ padding:0px 15px 0px 0px;
 }
 #header h1{
  font-size:30px;
 }
 #eagle img{float: right;
- padding:0px 15px 0px 0px;
   } 
   #main {
     font-family: 'Lobster Two', cursive;
