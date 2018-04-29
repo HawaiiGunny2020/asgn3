@@ -6,14 +6,14 @@
                  padding: 0px 
                  }
               
- header{background-color: #031a0e;
+ .header{background-color: #031a0e;
         color:#ffdead;
         font-size:30px;
         padding:0px 0px 0px 20px; 
         box-shadow: 5px 10px #ceda62;    
 }
-header h1{
- font-size:30px;
+.header h1{
+ float:right;
 }
 #eagle img{float: right;
   } 
