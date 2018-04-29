@@ -16,6 +16,8 @@
     text-shadow: 2px 2px #eb2758;
     font-weight: bold;
   } 
+#header a{float:right;
+}
   img {float: right;
   } 
   #main {
@@ -31,8 +33,4 @@
     border-radius:3rem;
     box-shadow: 10px 15px #33001a; 
   }
-#footer{
-  margin-top: 500px;
- margin-right:1190px;
- position:fixed;
-}
+
