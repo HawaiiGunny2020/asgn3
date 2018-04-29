@@ -11,7 +11,10 @@
          padding:0px 0px 0px 20px; 
          box-shadow: 5px 10px #ceda62;    
 }
-  header img {float: right;
+header h1{
+ font-size:30px;
+}
+header img {float: right;
   } 
   #main {
     font-family: 'Lobster Two', cursive;
