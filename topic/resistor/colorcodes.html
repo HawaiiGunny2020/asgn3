@@ -1,62 +1,129 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<style> 
+.header {
+  overflow: hidden;
+  background-color: #290f28;
+  padding: 20px 10px;
+  box-shadow: 5px 10px;
+}
+.header h1 {
+  
+  float: left;
+  color: #ffdead;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  background-color: #130e3f;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;}
 table {
     border-collapse: collapse;
     width: 100%;
 }
-
 th, td {
     text-align: left;
     padding: 8px;
 }
-
 tr:nth-child(even){background-color: #f2f2f2}
-
 th {
     background-color: #4CAF50;
     color: white;
 }
+footer p .colorcode{float: right;
+}
 </style>
 </head>
 <body>
-
-<h2>Colored Table Header</h2>
-
+<div class="header">
+<h1 Style="font-size:25px" >Resistor Color Codes</h1>
+</div>
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Savings</th>
-    <th>Savings</th>  
+    <th>Color Value</th>
+    <th>Value as Figure</th>
+    <th>As Decimal Multiplier</th>
+    <th>Tolerance +/-</th>  
   </tr>
   <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
-    <td>$100</td>
+    <td style="background-color: black; color: #FFdead;">Black</td>
+    <td>0</td>
+    <td>X1</td>
+    <td>+/- 20%</td>
   </tr>
   <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
-    <td>$150</td>
+    <td style="background-color: brown; color: black;">Brown</td>
+    <td>1</td>
+    <td>x10<sup>1</sup></td>
+    <td>+/- 1%</td>
   </tr>
   <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
-    <td>$300</td>
+    <td style="background-color: red; color: black;">Red</td>
+    <td>2</td>
+    <td>X10<sup>2</sup></td>
+    <td>+/- 2%</td>
   </tr>
+   <tr>
+        <td style="background-color: orange;">Orange</td>
+        <td>3</td>
+        <td>X10<sup>3</sup></td>
+        <td>-</td>
+      </tr>
     <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
-    <td>$300</td>
+    <td style="background-color: yellow; color: black;">Yellow</td>
+    <td>4</td>
+    <td>X10<sup>4</sup></td>
+    <td>+/- 5%</td>
   </tr>
   <tr>
-    <td>Cleveland</td>
-    <td>Brown</td>
-    <td>$250</td>
+ <td style="background-color: green; color: black;">Green</td>
+<td>5</td>
+<td>X10<sup>5></sup></td>
+<td>+/- 0.5%</td>
 </tr>
+<tr>
+    <td style="background-color: Blue; color: black;">Blue</td>
+    <td>6</td>
+    <td>X10<sup>6</sup></td>
+    <td>+/- 0.25%</td>
+    </tr>
+    <tr>
+    <td style="background-color: violet; color: black;">Violet</td>
+    <td>7</td>
+    <td>X10<sup>7</sup></td>
+    <td>+/- 0.1%</td>
+    </tr>
+    <tr>
+    <td style="background-color: grey; color: black;">Grey</td>
+    <td>8</td>
+    <td>X10<sup>8</sup></td>
+    <td>+/- 0.05%</td>
+    </tr>
+    <tr>
+    <td style="background-color: white; color: black;">White</td>
+    <td>9</td>
+    <td>X10<sup>9</sup></td>
+    <td>+/- 10%</td>
+    </tr>
+    <tr>
+    <td style="background-color: gold; color: black;">Gold</td>
+    <td>-</td>
+    <td>X10<sup>-1</sup></td>
+    <td>+/- 5%</td>
+    </tr>
+    <tr>
+    <td style="background-color: silver; color: black;">Silver</td>
+    <td>-</td>
+    <td>X10<sup>-2</sup></td>
+    <td>+/- 10%</td>
+    </tr>
 </table>
+<footer>
+<p id="home"><a href="https://hawaiigunny2020.github.io/asgn3/project.html"><img src="resistor.jpg" alt="BEC" height="50" width="50"></a>Return to Basic Electronic Components</p>
+<p id= "colorcode"> <img src =" reistor10.jpeg"></p>
+</footer>
 
 </body>
 </html>
