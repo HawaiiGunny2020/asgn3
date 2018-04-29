@@ -8,7 +8,6 @@
               
  #header{background-color: #031a0e;
         color:#ffdead;
-        font-size:30px;
         padding:0px 0px 0px 20px; 
         box-shadow: 5px 10px #ceda62;    
 }
@@ -18,6 +17,7 @@
  font-size:30px;
 }
 #eagle img{float: right;
+ padding:0px 15px 0px 0px;
   } 
   #main {
     font-family: 'Lobster Two', cursive;
