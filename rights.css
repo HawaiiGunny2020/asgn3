@@ -29,6 +29,7 @@ nav a {
         }
 footer{float:left;
        }
-
+footer p{text-decoration:none;}
 footer p:hover{
-color:#ff0000;}
+color:#ff0000;
+}
