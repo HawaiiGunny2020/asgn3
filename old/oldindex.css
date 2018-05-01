@@ -1,0 +1,14 @@
+body{ background-color:#8cb3d9;
+      Font-family: verdana, helvetica, sans-serif;
+      color:#ffdead;
+      background-image: url(splash.png);}
+header{background-color:#0d1a00;}
+header div{ float:right;}
+header h1{font-size:30pt;
+          font-color:#FF0000;}
+header p{font-size:20pt;}
+nav ul{list-style-type:none;}
+ul li{font-size:18pt;}
+footer{color:#000000;
+       margin:200px 0px 0px 0px;}
+
